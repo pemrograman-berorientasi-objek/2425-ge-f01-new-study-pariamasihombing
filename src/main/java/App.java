@@ -2,7 +2,6 @@ import java.util.*;
 import pbo.DrivApp;    
 
 public class App {
-
     public static void main(String[] args) {
 
         DrivApp.initializeEntityManager();
